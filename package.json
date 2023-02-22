@@ -1,0 +1,33 @@
+{
+  "//1": "Buraya Elleme!",
+  "name": "discord.js-bos-altyapı-v12",
+  "version": "1.0.0",
+  "description": "Discord.JS v12 Boş Altyapı",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^14.3.2",
+    "fs": "^0.0.2",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "node-cmd": "^5.0.0",
+    "pretty-bytes": "^5.6.0",
+    "quick.db": "^7.1.2",
+    "randomstring": "^1.2.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/kontmanstein/discord.js-v12-bos-altyapi"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "node",
+    "djs"
+  ]
+}
