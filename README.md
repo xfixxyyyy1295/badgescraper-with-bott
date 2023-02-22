@@ -1,4 +1,3 @@
-Merhaba Tamamen Lyrox Tarafından Kodlanmıştır Maxi Code İçin Çalınması-Paylaşınması Yasaktır Çalan Olursa Gerekli Şeyler Uygulancaktır Maxi Code Tüm Hakları Saklıdır
+https://media.discordapp.net/attachments/1075061366429339669/1078036205129703474/image.png?width=760&height=427
 
-https://discord.gg/maxicode
-
+With the bot you can see people with badges on the server
